@@ -1,13 +1,11 @@
-# Currently studying CS at [UNIVEM](https://www.univem.edu.br/home)
-
 💻 Linux enthusiast\
 📖 Bookworm
 
 <div align="center">
 
-[![Domnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domnus&show_icons=true&theme=radical)](https://github.com/Domnus/github-readme-stats)
+[![BentoCarlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=BentoCarlos&show_icons=true&theme=radical)](https://github.com/BentoCarlos/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domnus&layout=compact&show_icons=true&theme=radical)](https://github.com/Domnus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BentoCarlos&layout=compact&show_icons=true&theme=radical)](https://github.com/BentoCarlos/github-readme-stats)
 
 <div/>
 
