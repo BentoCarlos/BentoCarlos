@@ -3,9 +3,9 @@
 
 <div align="center">
 
-[![BentoCarlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=BentoCarlos&show_icons=true&theme=radical)](https://github.com/BentoCarlos/github-readme-stats)
+[![BentoCarlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=BentoCarlos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BentoCarlos&layout=compact&show_icons=true&theme=radical)](https://github.com/BentoCarlos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BentoCarlos&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div/>
 
